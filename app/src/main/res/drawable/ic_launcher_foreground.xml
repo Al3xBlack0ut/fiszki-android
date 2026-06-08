@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Depth Shadow for the fish -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M82,56C82,56 64,36 42,56L30,47L30,65L42,56C64,76 82,56 82,56Z" />
+
+    <!-- Clean, Bold Fish Silhouette (Centered and Balanced) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,54C80,54 62,34 40,54L28,45L28,63L40,54C62,74 80,54 80,54Z" />
+
+    <!-- Minimalist Eye using the background dark blue for contrast -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M70,52m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+</vector>

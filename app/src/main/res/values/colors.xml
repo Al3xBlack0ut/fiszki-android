@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <!-- App Branding -->
+    <color name="brand_green">#10B981</color>
+    <color name="brand_blue">#0EA5E9</color>
+    <color name="brand_orange">#F59E0B</color>
+    <color name="brand_rose">#E11D48</color>
+</resources>

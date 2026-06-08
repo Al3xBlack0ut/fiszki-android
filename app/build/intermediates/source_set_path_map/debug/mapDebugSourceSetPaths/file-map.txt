@@ -1,0 +1,62 @@
+com.example.fiszki.app-sqlite-framework-2.4.0-0 C:\Users\PC\.gradle\caches\9.3.1\transforms\04015474e25100ee8cd731edf0c2ea01\workspace\transformed\sqlite-framework-2.4.0\res
+com.example.fiszki.app-jetified-customview-poolingcontainer-1.0.0-1 C:\Users\PC\.gradle\caches\9.3.1\transforms\04d351451d9199c78d06cf67fc016c71\workspace\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.fiszki.app-jetified-activity-1.9.3-2 C:\Users\PC\.gradle\caches\9.3.1\transforms\0524c9bf7809a542ea467f3361d6f5c3\workspace\transformed\jetified-activity-1.9.3\res
+com.example.fiszki.app-sqlite-2.4.0-3 C:\Users\PC\.gradle\caches\9.3.1\transforms\0f68a9628a155a86a4be5c5f97905f44\workspace\transformed\sqlite-2.4.0\res
+com.example.fiszki.app-jetified-appcompat-resources-1.6.1-4 C:\Users\PC\.gradle\caches\9.3.1\transforms\0febe8b5b2f517078a7779a81a538ec8\workspace\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.fiszki.app-jetified-play-services-base-18.5.0-5 C:\Users\PC\.gradle\caches\9.3.1\transforms\1323a150de8963bf35a7ce1c9e2cc2c6\workspace\transformed\jetified-play-services-base-18.5.0\res
+com.example.fiszki.app-jetified-lifecycle-viewmodel-ktx-2.8.6-6 C:\Users\PC\.gradle\caches\9.3.1\transforms\13feb42ab456d05621bb36b8c4ddd58d\workspace\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.example.fiszki.app-jetified-ui-geometry-release-7 C:\Users\PC\.gradle\caches\9.3.1\transforms\18274e4e4b583b17f7f47ca392655c9e\workspace\transformed\jetified-ui-geometry-release\res
+com.example.fiszki.app-jetified-ui-tooling-release-8 C:\Users\PC\.gradle\caches\9.3.1\transforms\1d56e8f56072b46db0154f1f2e9fa073\workspace\transformed\jetified-ui-tooling-release\res
+com.example.fiszki.app-jetified-activity-compose-1.9.3-9 C:\Users\PC\.gradle\caches\9.3.1\transforms\1f308a7058291739a3f0801bcce25fc8\workspace\transformed\jetified-activity-compose-1.9.3\res
+com.example.fiszki.app-core-1.13.1-10 C:\Users\PC\.gradle\caches\9.3.1\transforms\23262881a95508fd456e6afaf01fcc50\workspace\transformed\core-1.13.1\res
+com.example.fiszki.app-jetified-ui-release-11 C:\Users\PC\.gradle\caches\9.3.1\transforms\25160262b24ae8900989715d0ac2653b\workspace\transformed\jetified-ui-release\res
+com.example.fiszki.app-jetified-lifecycle-viewmodel-release-12 C:\Users\PC\.gradle\caches\9.3.1\transforms\25a16cd0cf32641f3f5f3d501b771d5a\workspace\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.fiszki.app-jetified-lifecycle-runtime-ktx-release-13 C:\Users\PC\.gradle\caches\9.3.1\transforms\27ff59bfa50207a2bf8c13a6ca5f34f8\workspace\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.fiszki.app-jetified-runtime-saveable-release-14 C:\Users\PC\.gradle\caches\9.3.1\transforms\3570f5707bded1ce13d623956a8569d0\workspace\transformed\jetified-runtime-saveable-release\res
+com.example.fiszki.app-jetified-lifecycle-process-2.8.6-15 C:\Users\PC\.gradle\caches\9.3.1\transforms\393321e999edcb65bb3eec3302ef6dc3\workspace\transformed\jetified-lifecycle-process-2.8.6\res
+com.example.fiszki.app-jetified-ui-unit-release-16 C:\Users\PC\.gradle\caches\9.3.1\transforms\39f151c9b2ebcd050a68d5c2dff4af2b\workspace\transformed\jetified-ui-unit-release\res
+com.example.fiszki.app-jetified-animation-core-release-17 C:\Users\PC\.gradle\caches\9.3.1\transforms\41001fa3e83fb7e143239a0cbbe2fc54\workspace\transformed\jetified-animation-core-release\res
+com.example.fiszki.app-lifecycle-livedata-2.8.6-18 C:\Users\PC\.gradle\caches\9.3.1\transforms\47ebfb23bd1dc43bf2357ea1b66603e1\workspace\transformed\lifecycle-livedata-2.8.6\res
+com.example.fiszki.app-jetified-savedstate-1.2.1-19 C:\Users\PC\.gradle\caches\9.3.1\transforms\49fc43da5f759b63a60838ae6325e893\workspace\transformed\jetified-savedstate-1.2.1\res
+com.example.fiszki.app-jetified-ui-test-manifest-1.7.4-20 C:\Users\PC\.gradle\caches\9.3.1\transforms\50821e5313924759c1f477afe94ff333\workspace\transformed\jetified-ui-test-manifest-1.7.4\res
+com.example.fiszki.app-jetified-foundation-release-21 C:\Users\PC\.gradle\caches\9.3.1\transforms\548a184ac06f96ee0786bb71343e3848\workspace\transformed\jetified-foundation-release\res
+com.example.fiszki.app-jetified-material-ripple-release-22 C:\Users\PC\.gradle\caches\9.3.1\transforms\6006e814133b362345d587d886042cb8\workspace\transformed\jetified-material-ripple-release\res
+com.example.fiszki.app-jetified-ui-text-release-23 C:\Users\PC\.gradle\caches\9.3.1\transforms\626217bac49b8438e97feb26055a374e\workspace\transformed\jetified-ui-text-release\res
+com.example.fiszki.app-jetified-emoji2-views-helper-1.3.0-24 C:\Users\PC\.gradle\caches\9.3.1\transforms\692c7b4ce825be8ab62ef0dcb2ecdd39\workspace\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.fiszki.app-jetified-activity-ktx-1.9.3-25 C:\Users\PC\.gradle\caches\9.3.1\transforms\69797931f7f59ebed0120945ba5a1252\workspace\transformed\jetified-activity-ktx-1.9.3\res
+com.example.fiszki.app-jetified-material-release-26 C:\Users\PC\.gradle\caches\9.3.1\transforms\6c46ffde441e45c694af7e2e97b260c1\workspace\transformed\jetified-material-release\res
+com.example.fiszki.app-appcompat-1.6.1-27 C:\Users\PC\.gradle\caches\9.3.1\transforms\74017fe28765208f17be6fd7ad3e429c\workspace\transformed\appcompat-1.6.1\res
+com.example.fiszki.app-jetified-savedstate-ktx-1.2.1-28 C:\Users\PC\.gradle\caches\9.3.1\transforms\74968834ae5aa155cfd735d8167deced\workspace\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.fiszki.app-jetified-profileinstaller-1.3.1-29 C:\Users\PC\.gradle\caches\9.3.1\transforms\7c2625c5b5378334e29d16ee01cf1032\workspace\transformed\jetified-profileinstaller-1.3.1\res
+com.example.fiszki.app-jetified-lifecycle-runtime-release-30 C:\Users\PC\.gradle\caches\9.3.1\transforms\7e2a8ddff9232bf5bf226974e52aad9b\workspace\transformed\jetified-lifecycle-runtime-release\res
+com.example.fiszki.app-jetified-ui-tooling-preview-release-31 C:\Users\PC\.gradle\caches\9.3.1\transforms\85b6f79f80192cc0ba84b9041b117ca7\workspace\transformed\jetified-ui-tooling-preview-release\res
+com.example.fiszki.app-jetified-graphics-path-1.0.1-32 C:\Users\PC\.gradle\caches\9.3.1\transforms\878b7049b896da40c50ac97b629af3e9\workspace\transformed\jetified-graphics-path-1.0.1\res
+com.example.fiszki.app-jetified-lifecycle-livedata-core-ktx-2.8.6-33 C:\Users\PC\.gradle\caches\9.3.1\transforms\8c408ee17c08fd28a7c173205d2327a8\workspace\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\res
+com.example.fiszki.app-lifecycle-livedata-core-2.8.6-34 C:\Users\PC\.gradle\caches\9.3.1\transforms\8fe7083c5b34cae28dc36cfa099782e7\workspace\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.fiszki.app-fragment-1.3.6-35 C:\Users\PC\.gradle\caches\9.3.1\transforms\9470e2f6a12062c52bd926471fc11feb\workspace\transformed\fragment-1.3.6\res
+com.example.fiszki.app-room-runtime-2.6.1-36 C:\Users\PC\.gradle\caches\9.3.1\transforms\9fc522c09a6d91edeb45dcdfbe7780b2\workspace\transformed\room-runtime-2.6.1\res
+com.example.fiszki.app-jetified-animation-release-37 C:\Users\PC\.gradle\caches\9.3.1\transforms\a9ef6712d90b9bf64e79355ddd9681b6\workspace\transformed\jetified-animation-release\res
+com.example.fiszki.app-jetified-material-icons-core-release-38 C:\Users\PC\.gradle\caches\9.3.1\transforms\abe2ea1a5c7a0591a0b15adcf2d52eb0\workspace\transformed\jetified-material-icons-core-release\res
+com.example.fiszki.app-core-runtime-2.2.0-39 C:\Users\PC\.gradle\caches\9.3.1\transforms\aea0275fc71742411880a2b1d65aa684\workspace\transformed\core-runtime-2.2.0\res
+com.example.fiszki.app-jetified-ui-tooling-data-release-40 C:\Users\PC\.gradle\caches\9.3.1\transforms\af6513e3e80e185322404833f737c086\workspace\transformed\jetified-ui-tooling-data-release\res
+com.example.fiszki.app-jetified-lifecycle-runtime-compose-release-41 C:\Users\PC\.gradle\caches\9.3.1\transforms\ba9c4cad22c945da8adcc7e00c278d97\workspace\transformed\jetified-lifecycle-runtime-compose-release\res
+com.example.fiszki.app-jetified-foundation-layout-release-42 C:\Users\PC\.gradle\caches\9.3.1\transforms\c3d7c241b94e8b514df67b4a81117d93\workspace\transformed\jetified-foundation-layout-release\res
+com.example.fiszki.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-43 C:\Users\PC\.gradle\caches\9.3.1\transforms\cefaa684e3937929a5ac2a6a1bb799f8\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.fiszki.app-jetified-material-icons-extended-release-44 C:\Users\PC\.gradle\caches\9.3.1\transforms\d67fc4c78b80d902fe7f82502047c059\workspace\transformed\jetified-material-icons-extended-release\res
+com.example.fiszki.app-jetified-ui-util-release-45 C:\Users\PC\.gradle\caches\9.3.1\transforms\d91c9b2db9938b365b0d16eec993e7a6\workspace\transformed\jetified-ui-util-release\res
+com.example.fiszki.app-jetified-ui-graphics-release-46 C:\Users\PC\.gradle\caches\9.3.1\transforms\dae2db4fe5e45a544943da7b39736d8b\workspace\transformed\jetified-ui-graphics-release\res
+com.example.fiszki.app-jetified-material3-release-47 C:\Users\PC\.gradle\caches\9.3.1\transforms\e08c8913b46d68a754517f08554e8a53\workspace\transformed\jetified-material3-release\res
+com.example.fiszki.app-jetified-play-services-basement-18.4.0-48 C:\Users\PC\.gradle\caches\9.3.1\transforms\e174ba5441ab422a6b2cabc220719377\workspace\transformed\jetified-play-services-basement-18.4.0\res
+com.example.fiszki.app-jetified-room-ktx-2.6.1-49 C:\Users\PC\.gradle\caches\9.3.1\transforms\e48f2ab147f19a8685f844dd3bfd8198\workspace\transformed\jetified-room-ktx-2.6.1\res
+com.example.fiszki.app-jetified-runtime-release-50 C:\Users\PC\.gradle\caches\9.3.1\transforms\e4ccb812cba6fb4585ea986c3e7a25a6\workspace\transformed\jetified-runtime-release\res
+com.example.fiszki.app-jetified-startup-runtime-1.1.1-51 C:\Users\PC\.gradle\caches\9.3.1\transforms\e68da491bf97478226c1c3d255df6e90\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.example.fiszki.app-jetified-core-ktx-1.13.1-52 C:\Users\PC\.gradle\caches\9.3.1\transforms\e7374930f57f3114f22509211be66083\workspace\transformed\jetified-core-ktx-1.13.1\res
+com.example.fiszki.app-jetified-emoji2-1.3.0-53 C:\Users\PC\.gradle\caches\9.3.1\transforms\f5e315f462f5412ad7b6fd1d682e81aa\workspace\transformed\jetified-emoji2-1.3.0\res
+com.example.fiszki.app-jetified-annotation-experimental-1.4.1-54 C:\Users\PC\.gradle\caches\9.3.1\transforms\f676d98b2f3edba3bb7288aa7c6ca896\workspace\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.fiszki.app-pngs-55 I:\fiszki-android-main (1)\fiszki-android-main\app\build\generated\res\pngs\debug
+com.example.fiszki.app-resValues-56 I:\fiszki-android-main (1)\fiszki-android-main\app\build\generated\res\resValues\debug
+com.example.fiszki.app-packageDebugResources-57 I:\fiszki-android-main (1)\fiszki-android-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fiszki.app-packageDebugResources-58 I:\fiszki-android-main (1)\fiszki-android-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fiszki.app-debug-59 I:\fiszki-android-main (1)\fiszki-android-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.fiszki.app-debug-60 I:\fiszki-android-main (1)\fiszki-android-main\app\src\debug\res
+com.example.fiszki.app-main-61 I:\fiszki-android-main (1)\fiszki-android-main\app\src\main\res
